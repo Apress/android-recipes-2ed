@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Univerter</string>
+
+  <string name="btn0">0</string>
+  <string name="btn1">1</string>
+  <string name="btn2">2</string>
+  <string name="btn3">3</string>
+  <string name="btn4">4</string>
+  <string name="btn5">5</string>
+  <string name="btn6">6</string>
+  <string name="btn7">7</string>
+  <string name="btn8">8</string>
+  <string name="btn9">9</string>
+  <string name="btnCat">CAT</string>
+  <string name="btnClose">Close</string>
+  <string name="btnClr">CLR</string>
+  <string name="btnCon">CON</string>
+  <string name="btnCvt">CVT</string>
+  <string name="btnDot">.</string>
+  <string name="btnPm">+/-</string>
+
+  <string name="cat_angle">ANGLE</string>
+  <string name="cat_angle_circles_to_deg">CIRCLES > DEGREES</string>
+  <string name="cat_angle_circles_to_grad">CIRCLES > GRADIENTS</string>
+  <string name="cat_angle_circles_to_rad">CIRCLES > RADIANS</string>
+  <string name="cat_angle_deg_to_circles">DEGREES > CIRCLES</string>
+  <string name="cat_angle_deg_to_grad">DEGREES > GRADIENTS</string>
+  <string name="cat_angle_deg_to_rad">DEGREES > RADIANS</string>
+  <string name="cat_angle_grad_to_circles">GRADIENTS > CIRCLES</string>
+  <string name="cat_angle_grad_to_deg">GRADIENTS > DEGREES</string>
+  <string name="cat_angle_grad_to_rad">GRADIENTS > RADIANS</string>
+  <string name="cat_angle_rad_to_circles">RADIANS > CIRCLES</string>
+  <string name="cat_angle_rad_to_deg">RADIANS > DEGREES</string>
+  <string name="cat_angle_rad_to_grad">RADIANS > GRADIENTS</string>
+
+  <string name="cat_area">AREA</string>
+  <string name="cat_area_acres_to_ha">ACRES > HECTARES</string>
+  <string name="cat_area_acresuss_to_ha">ACRES (U.S. SURVEY) > HECTARES</string>
+  <string name="cat_area_a_to_ha">ARES > HECTARES</string>
+  <string name="cat_area_ha_to_acres">HECTARES > ACRES</string>
+  <string name="cat_area_ha_to_acresuss">HECTARES > ACRES (U.S. SURVEY)</string>
+  <string name="cat_area_ha_to_a">HECTARES > ARES</string>
+  <string name="cat_area_sections_to_townships">SECTIONS > TOWNSHIPS</string>
+  <string name="cat_area_sq_cm_to_sq_in">SQ CENTIMETERS > SQ INCHES</string>
+  <string name="cat_area_sq_ft_to_sq_m">SQ FEET > SQ METERS</string>
+  <string name="cat_area_sq_in_to_sq_cm">SQ INCHES > SQ CENTIMETERS</string>
+  <string name="cat_area_sq_in_to_sq_yd">SQ INCHES > SQ YARDS</string>
+  <string name="cat_area_sq_km_to_sq_m">SQ KILOMETERS > SQ METERS</string>
+  <string name="cat_area_sq_m_to_sq_ft">SQ METERS > SQ FEET</string>
+  <string name="cat_area_sq_m_to_sq_km">SQ METERS > SQ KILOMETERS</string>
+  <string name="cat_area_sq_yd_to_sq_in">SQ YARDS > SQ INCHES</string>
+  <string name="cat_area_townships_to_sections">TOWNSHIPS > SECTIONS</string>
+
+  <string name="cat_capvol">CAPACITY/VOLUME</string>
+  <string name="cat_capvol_galuk_to_l">GALLONS (U.K.) > LITERS</string>
+  <string name="cat_capvol_galus_to_l">GALLONS (U.S.) > LITERS</string>
+  <string name="cat_capvol_l_to_galuk">LITERS > GALLONS (U.K.)</string>
+  <string name="cat_capvol_l_to_galus">LITERS > GALLONS (U.S.)</string>
+  <string name="cat_capvol_l_to_ptuk">LITERS > PINTS (U.K.)</string>
+  <string name="cat_capvol_l_to_ptus">LITERS > PINTS (U.S.)</string>
+  <string name="cat_capvol_l_to_qtuk">LITERS > QUARTS (U.K.)</string>
+  <string name="cat_capvol_l_to_qtus">LITERS > QUARTS (U.S.)</string>
+  <string name="cat_capvol_ptuk_to_l">PINTS (U.K.) > LITERS</string>
+  <string name="cat_capvol_ptus_to_l">PINTS (U.S.) > LITERS</string>
+  <string name="cat_capvol_qtuk_to_l">QUARTS (U.K.) > LITERS</string>
+  <string name="cat_capvol_qtus_to_l">QUARTS (U.S.) > LITERS</string>
+  <string name="cat_capvol_tbspm_to_tbspuk">TABLESPOON (METRIC) > TABLESPOON (U.K.)</string>
+  <string name="cat_capvol_tbspm_to_tbspus">TABLESPOON (METRIC) > TABLESPOON (U.S.)</string>
+  <string name="cat_capvol_tbspm_to_tspm">TABLESPOON (METRIC) > TEASPOON (METRIC)</string>
+  <string name="cat_capvol_tbspuk_to_tbspm">TABLESPOON (U.K.) > TABLESPOON (METRIC)</string>
+  <string name="cat_capvol_tbspuk_to_tbspus">TABLESPOON (U.K.) > TABLESPOON (U.S.)</string>
+  <string name="cat_capvol_tbspuk_to_tspm">TABLESPOON (U.K.) > TEASPOON (METRIC)</string>
+  <string name="cat_capvol_tbspus_to_tbspm">TABLESPOON (U.S.) > TABLESPOON (METRIC)</string>
+  <string name="cat_capvol_tbspus_to_tbspuk">TABLESPOON (U.S.) > TABLESPOON (U.K.)</string>
+  <string name="cat_capvol_tbspus_to_tspm">TABLESPOON (U.S.) > TEASPOON (METRIC)</string>
+  <string name="cat_capvol_tspm_to_tbspm">TEASPOON (METRIC) > TABLESPOON (METRIC)</string>
+  <string name="cat_capvol_tspm_to_tbspuk">TEASPOON (METRIC) > TABLESPOON (U.K.)</string>
+  <string name="cat_capvol_tspm_to_tbspus">TEASPOON (METRIC) > TABLESPOON (U.S.)</string>
+  <string name="cat_capvol_tspm_to_tspuk">TEASPOON (METRIC) > TEASPOON (U.K.)</string>
+  <string name="cat_capvol_tspm_to_tspus">TEASPOON (METRIC) > TEASPOON (U.S.)</string>
+  <string name="cat_capvol_tspuk_to_tspm">TEASPOON (U.K.) > TEASPOON (METRIC)</string>
+  <string name="cat_capvol_tspuk_to_tspus">TEASPOON (U.K.) > TEASPOON (U.S.)</string>
+  <string name="cat_capvol_tspus_to_tspm">TEASPOON (U.S.) > TEASPOON (METRIC)</string>
+  <string name="cat_capvol_tspus_to_tspuk">TEASPOON (U.S.) > TEASPOON (U.K.)</string>
+
+  <string name="cat_datastor">DATA STORAGE</string>
+  <string name="cat_datastor_B_to_kB">BYTES > KILOBYTES</string>
+  <string name="cat_datastor_EB_to_GB">EXABYTES > GIGABYTES</string>
+  <string name="cat_datastor_EB_to_TB">EXABYTES > TERABYTES</string>
+  <string name="cat_datastor_GB_to_EB">GIGABYTES > EXABYTES</string>
+  <string name="cat_datastor_GB_to_kB">GIGABYTES > KILOBYTES</string>
+  <string name="cat_datastor_GB_to_MB">GIGABYTES > MEGABYTES</string>
+  <string name="cat_datastor_GB_to_PB">GIGABYTES > PETABYTES</string>
+  <string name="cat_datastor_kB_to_B">KILOBYTES > BYTES</string>
+  <string name="cat_datastor_kB_to_GB">KILOBYTES > GIGABYTES</string>
+  <string name="cat_datastor_kB_to_MB">KILOBYTES > MEGABYTES</string>
+  <string name="cat_datastor_MB_to_GB">MEGABYTES > GIGABYTES</string>
+  <string name="cat_datastor_MB_to_kB">MEGABYTES > KILOBYTES</string>
+  <string name="cat_datastor_PB_to_GB">PETABYTES > GIGABYTES</string>
+  <string name="cat_datastor_TB_to_EB">TERABYTES > EXABYTES</string>
+
+  <string name="cat_distlen">DISTANCE/LENGTH</string>
+  <string name="cat_distlen_a_to_u">ANGSTROMS > MICRONS</string>
+  <string name="cat_distlen_au_to_ly">ASTRONOMICAL UNITS > LIGHT YEARS</string>
+  <string name="cat_distlen_cm_to_in">CENTIMETERS > INCHES</string>
+  <string name="cat_distlen_ft_to_m">FEET > METERS</string>
+  <string name="cat_distlen_in_to_cm">INCHES > CENTIMETERS</string>
+  <string name="cat_distlen_in_to_twip">INCHES > TWIPS</string>
+  <string name="cat_distlen_km_to_miint">KILOMETERS > MILES (INT)</string>
+  <string name="cat_distlen_km_to_miusss">KILOMETERS > MILES (U.S. SURVEY/STATUTE)</string>
+  <string name="cat_distlen_ly_to_au">LIGHT YEARS > ASTRONOMICAL UNITS</string>
+  <string name="cat_distlen_m_to_ft">METERS > FEET</string>
+  <string name="cat_distlen_m_to_yd">METERS > YARDS</string>
+  <string name="cat_distlen_u_to_A">MICRONS > ANGSTOMS</string>
+  <string name="cat_distlen_miint_to_km">MILES (INT) > KILOMETERS</string>
+  <string name="cat_distlen_miusss_to_km">MILES (U.S. SURVEY/STATUTE) > KILOMETERS</string>
+  <string name="cat_distlen_picas_to_points">PICAS > POINTS</string>
+  <string name="cat_distlen_points_to_picas">POINTS > PICAS</string>
+  <string name="cat_distlen_twip_to_in">TWIPS > INCHES</string>
+  <string name="cat_distlen_yd_to_m">YARDS > METERS</string>
+
+  <string name="cat_energy">ENERGY AND WORK</string>
+  <string name="cat_energy_btuit_to_calit">Btus (IT) > Calories (IT)</string>
+  <string name="cat_energy_calit_to_btuit">Calories (IT) > Btus (IT)</string>
+  <string name="cat_energy_erg_to_J">ERGS > JOULES</string>
+  <string name="cat_energy_hph_to_Wh">HORSEPOWER HOURS > WATT-HOURS</string>
+  <string name="cat_energy_hpmh_to_Wh">HORSEPOWER (METRIC) HOURS > WATT-HOURS</string>
+  <string name="cat_energy_J_to_erg">JOULES > ERGS</string>
+  <string name="cat_energy_J_to_Wh">JOULES > WATT-HOURS</string>
+  <string name="cat_energy_Wh_to_hph">WATT-HOURS > HORSEPOWER HOURS</string>
+  <string name="cat_energy_Wh_to_hpmh">WATT-HOURS > HORSEPOWER (METRIC) HOURS</string>
+  <string name="cat_energy_Wh_to_J">WATT-HOURS > JOULES</string>
+
+  <string name="cat_force">FORCE</string>
+  <string name="cat_force_dyn_to_N">DYNES > NEWTONS</string>
+  <string name="cat_force_kgf_to_kipf">KILOGRAM-FORCE > KILOPOUND-FORCE</string>
+  <string name="cat_force_kipf_to_kgf">KILOPOUND-FORCE > KILOGRAM-FORCE</string>
+  <string name="cat_force_N_to_dyn">NEWTONS > DYNES</string>
+  <string name="cat_force_N_to_p">NEWTONS > PONDS</string>
+  <string name="cat_force_N_to_pdl">NEWTONS > POUNDALS</string>
+  <string name="cat_force_p_to_N">PONDS > NEWTONS</string>
+  <string name="cat_force_pdl_to_N">POUNDALS > NEWTONS</string>
+
+  <string name="cat_fuelcons">FUEL CONSUMPTION</string>
+  <string name="cat_fuelcons_kmpl_to_mpguk">KILOMETERS/LITER > MILES/GALLON (U.K.)</string>
+  <string name="cat_fuelcons_kmpl_to_mpgus">KILOMETERS/LITER > MILES/GALLON (U.S.)</string>
+  <string name="cat_fuelcons_mpguk_to_kmpl">MILES/GALLON (U.K.) > KILOMETERS/LITER</string>
+  <string name="cat_fuelcons_mpgus_to_kmpl">MILES/GALLON (U.S.) > KILOMETERS/LITER</string>
+
+  <string name="cat_pressure">PRESSURE</string>
+  <string name="cat_pressure_atm_to_at">Atmospheres (Standard) > Atmospheres (Technical)</string>
+  <string name="cat_pressure_at_to_atm">Atmospheres (Technical) > Atmospheres (Standard)</string>
+  <string name="cat_pressure_bars_to_pa">BARS > PASCALS</string>
+  <string name="cat_pressure_bars_to_psi">BARS > PSI</string>
+  <string name="cat_pressure_bars_to_torrs">BARS > TORRS</string>
+  <string name="cat_pressure_dynsqcm_to_kgfsqcm">DYNES (SQ CENTIMETER) > KILOGRAM-FORCE (SQ CENTIMETER)</string>
+  <string name="cat_pressure_dynsqcm_to_Nsqm">DYNES (SQ CENTIMETER) > NEWTONS (SQ METER)</string>
+  <string name="cat_pressure_kgfsqcm_to_dynsqcm">KILOGRAM-FORCE (SQ CENTIMETER) > DYNES (SQ CENTIMETER)</string>
+  <string name="cat_pressure_kgfsqcm_to_kipfsqin">KILOGRAM-FORCE (SQ CENTIMETER) > KILOPOUND-FORCE (SQ INCH)</string>
+  <string name="cat_pressure_kipfsqin_to_kgfsqcm">KILOPOUND-FORCE (SQ INCH) > KILOGRAM-FORCE (SQ CENTIMETER)</string>
+  <string name="cat_pressure_Nsqm_to_dynsqcm">NEWTONS (SQ METER) > DYNES (SQ CENTIMETER)</string>
+  <string name="cat_pressure_pa_to_bars">PASCALS > BARS</string>
+  <string name="cat_pressure_pa_to_psi">PASCALS > PSI</string>
+  <string name="cat_pressure_pa_to_torrs">PASCALS > TORRS</string>
+  <string name="cat_pressure_psi_to_bars">PSI > BARS</string>
+  <string name="cat_pressure_psi_to_pa">PSI > PASCALS</string>
+  <string name="cat_pressure_psi_to_torrs">PSI > TORRS</string>
+  <string name="cat_pressure_torrs_to_bars">TORRS > BARS</string>
+  <string name="cat_pressure_torrs_to_pa">TORRS > PASCALS</string>
+  <string name="cat_pressure_torrs_to_psi">TORRS > PSI</string>
+
+  <string name="cat_temp">TEMPERATURE</string>
+  <string name="cat_temp_celsius_to_fahrenheit">CELSIUS > FAHRENHEIT</string>
+  <string name="cat_temp_celsius_to_kelvin">CELSIUS > KELVIN</string>
+  <string name="cat_temp_fahrenheit_to_celsius">FAHRENHEIT > CELSIUS</string>
+  <string name="cat_temp_kelvin_to_celsius">KELVIN > CELSIUS</string>
+
+  <string name="cat_time">TIME</string>
+  <string name="cat_time_d_to_h">DAYS > HOURS</string>
+  <string name="cat_time_d_to_m">DAYS > MINUTES</string>
+  <string name="cat_time_d_to_s">DAYS > SECONDS</string>
+  <string name="cat_time_d_to_w">DAYS > WEEKS</string>
+  <string name="cat_time_h_to_d">HOURS > DAYS</string>
+  <string name="cat_time_h_to_m">HOURS > MINUTES</string>
+  <string name="cat_time_h_to_s">HOURS > SECONDS</string>
+  <string name="cat_time_h_to_w">HOURS > WEEKS</string>
+  <string name="cat_time_m_to_d">MINUTES > DAYS</string>
+  <string name="cat_time_m_to_h">MINUTES > HOURS</string>
+  <string name="cat_time_m_to_s">MINUTES > SECONDS</string>
+  <string name="cat_time_m_to_w">MINUTES > WEEKS</string>
+  <string name="cat_time_mo_to_w">MONTHS > WEEKS</string>
+  <string name="cat_time_s_to_d">SECONDS > DAYS</string>
+  <string name="cat_time_s_to_h">SECONDS > HOURS</string>
+  <string name="cat_time_s_to_m">SECONDS > MINUTES</string>
+  <string name="cat_time_s_to_w">SECONDS > WEEKS</string>
+  <string name="cat_time_w_to_d">WEEKS > DAYS</string>
+  <string name="cat_time_w_to_h">WEEKS > HOURS</string>
+  <string name="cat_time_w_to_m">WEEKS > MINUTES</string>
+  <string name="cat_time_w_to_mo">WEEKS > MONTHS</string>
+  <string name="cat_time_w_to_s">WEEKS > SECONDS</string>
+
+  <string name="cat_velocity">VELOCITY</string>
+  <string name="cat_velocity_fps_to_mps">FEET/SECOND > METERS/SECOND</string>
+  <string name="cat_velocity_kmph_to_machsi">KILOMETERS/HOUR > MACH (SI STANDARD)</string>
+  <string name="cat_velocity_kmph_to_miph">KILOMETERS/HOUR > MILES/HOUR</string>
+  <string name="cat_velocity_machsi_to_kmph">MACH (SI STANDARD) > KILOMETERS/HOUR</string>
+  <string name="cat_velocity_machsi_to_miph">MACH (SI STANDARD) > MILES/HOUR</string>
+  <string name="cat_velocity_mps_to_fps">METERS/SECOND > FEET/SECOND</string>
+  <string name="cat_velocity_miph_to_kmph">MILES/HOUR > KILOMETERS/HOUR</string>
+  <string name="cat_velocity_miph_to_machsi">MILES/HOUR > MACH (SI STANDARD)</string>
+
+  <string name="cat_weightmass">WEIGHT/MASS</string>
+  <string name="cat_weightmass_ct_to_lb">CARETS > POUNDS</string>
+  <string name="cat_weightmass_ct_to_lbt">CARETS > POUNDS (TROY)</string>
+  <string name="cat_weightmass_emrest_to_nm">ELECTRON MASS (REST) > NEUTRON MASS</string>
+  <string name="cat_weightmass_gr_to_slugs">GRAINS > SLUGS</string>
+  <string name="cat_weightmass_g_to_kg">GRAMS > KILOGRAMS</string>
+  <string name="cat_weightmass_hundredweightuk_to_lb">HUNDREDWEIGHT (U.K.) > POUNDS</string>
+  <string name="cat_weightmass_hundredweightus_to_lb">HUNDREDWEIGHT (U.S.) > POUNDS</string>
+  <string name="cat_weightmass_kg_to_g">KILOGRAMS > GRAMS</string>
+  <string name="cat_weightmass_kg_to_lb">KILOGRAMS > POUNDS</string>
+  <string name="cat_weightmass_kg_to_t">KILOGRAMS > TONNES (METRIC TONS)</string>
+  <string name="cat_weightmass_nm_to_emrest">NEUTRON MASS > ELECTRON MASS (REST)</string>
+  <string name="cat_weightmass_nm_to_pm">NEUTRON MASS > PROTON MASS</string>
+  <string name="cat_weightmass_oz_to_lb">OUNCES > POUNDS</string>
+  <string name="cat_weightmass_oz_to_lbt">OUNCES > POUNDS (TROY)</string>
+  <string name="cat_weightmass_ozt_to_lb">OUNCES (TROY) > POUNDS</string>
+  <string name="cat_weightmass_ozt_to_lbt">OUNCES (TROY) > POUNDS (TROY)</string>
+  <string name="cat_weightmass_lb_to_ct">POUNDS > CARETS</string>
+  <string name="cat_weightmass_lb_to_hundredweightuk">POUNDS > HUNDREDWEIGHT (U.K.)</string>
+  <string name="cat_weightmass_lb_to_hundredweightus">POUNDS > HUNDREDWEIGHT (U.S.)</string>
+  <string name="cat_weightmass_lb_to_kg">POUNDS > KILOGRAMS</string>
+  <string name="cat_weightmass_lb_to_oz">POUNDS > OUNCES</string>
+  <string name="cat_weightmass_lb_to_ozt">POUNDS > OUNCES (TROY)</string>
+  <string name="cat_weightmass_lb_to_stonesuk">POUNDS > STONES (U.K.)</string>
+  <string name="cat_weightmass_lb_to_stonesus">POUNDS > STONES (U.S.)</string>
+  <string name="cat_weightmass_lb_to_t">POUNDS > TONNES (METRIC TONS)</string>
+  <string name="cat_weightmass_lbt_to_ct">POUNDS (TROY) > CARETS</string>
+  <string name="cat_weightmass_lbt_to_oz">POUNDS (TROY) > OUNCES</string>
+  <string name="cat_weightmass_lbt_to_ozt">POUNDS (TROY) > OUNCES (TROY)</string>
+  <string name="cat_weightmass_pm_to_nm">PROTON MASS > NEUTRON MASS</string>
+  <string name="cat_weightmass_slugs_to_gr">SLUGS > GRAINS</string>
+  <string name="cat_weightmass_stonesuk_to_lb">STONES (U.K.) > POUNDS</string>
+  <string name="cat_weightmass_stonesus_to_lb">STONES (U.S.) > POUNDS</string>
+  <string name="cat_weightmass_t_to_kg">TONNES (METRIC TONS) > KILOGRAMS</string>
+  <string name="cat_weightmass_t_to_lb">TONNES (METRIC TONS) > POUNDS</string>
+
+  <string name="categories">CATEGORIES</string>
+  <string name="error_less_than_abs0">value cannot be less than absolute zero</string>
+
+  <string name="help"><![CDATA[<html><head></head>
+  <body style="text-align:justify;color:#helpText;background-color:transparent">
+  <strong>Univerter</strong> lets you convert between various kinds of units (e.g., Celsius and Fahrenheit). Version 1.0 
+  supports 200 conversions in 13 categories.
+
+  <p>
+  Perform the following steps to use this app:
+
+  <p>
+  <ol>
+    <li>
+      Press the <strong style=\"color: #helpHiliteText\">CAT</strong> button to select a conversion category (the default 
+      category is <strong>ANGLE</strong>).
+    </li>
+
+    <p>
+    <li>
+      Press the <strong style=\"color: #helpHiliteText\">CON</strong> button to select a conversion in the current category.
+    </li>
+
+    <p>
+    <li>
+      Enter the number of units to convert.
+    </li>
+
+    <p>
+    <li>
+      Press the <strong><span style=\"color: #helpHiliteText\">CVT</span></strong> button to perform the conversion.
+    </li>
+  </ol>
+
+  <p>
+  The <strong style=\"color: #helpHiliteText\">+/-</strong> button is enabled only for conversions where it makes sense to 
+  enter a negative number (e.g., converting from Celsius).
+
+  <p>
+  An <strong>overflow</strong> message is displayed when a conversion generates an absolute value larger than 1.0e+18. An 
+  <strong>underflow</strong> message is displayed when a conversion generates an absolute value smaller than 0.00000001 that
+  does not equal 0.
+
+  <p>
+  Univerter\'s icon obtained from 
+  <a style=\"color: #link\" href=\"http://www.iconarchive.com/show/or-icons-by-iconleak/justice-balance-icon.html\">Icon 
+  Archive</a> and courtesy of <a style=\"color: #link\" href=\"http://iconleak.com/\">IconLeak</a>.
+
+  <p>
+  I created Univerter as a companion to Apress\'s 
+  <a style=\"color: #link\" href=\"http://www.apress.com/9781430246145\">Android Recipes</a> book. Chapter 1 introduces this 
+  app and the source code accompanies the book. You can modify this source code to expand the app with additional conversions 
+  and otherwise meet your needs.
+  </body>
+  </html>]]></string>
+
+  <string name="info1"><![CDATA[<html><strong>Univerter (Units Converter) 1.0</strong></html>]]></string>
+  <string name="info2">Convert between units.</string>
+  <string name="info3">Created by <![CDATA[<html><a href=\"http://tutortutor.ca\">Jeff Friesen</a></html>]]>.</string>
+  <string name="info4">Created for <![CDATA[<html><a href=\"http://www.apress.com/9781430246145\">Android Recipes</a>.</html>]]></string>
+  <string name="menu_help">Help</string>
+  <string name="menu_info">Info</string>
+  <string name="overflow">Overflow</string>
+  <string name="underflow">Underflow</string>
+</resources>

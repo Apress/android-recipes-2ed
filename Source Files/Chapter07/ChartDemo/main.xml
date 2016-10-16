@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width = "match_parent"
+             android:layout_height="match_parent"
+             android:stretchColumns="*">
+  <TableRow>
+    <TextView android:text=""/>
+    <TextView android:text="2010"
+              android:layout_gravity="center"/>
+    <TextView android:text="2011"
+              android:layout_gravity="center"/>
+  </TableRow>
+
+  <TableRow>
+    <TextView android:text="1st Quarter"/>
+    <EditText android:id="@+id/data2010_1"
+              android:inputType="numberDecimal"
+              android:maxLines="1"/>
+    <EditText android:id="@+id/data2011_1"
+              android:inputType="numberDecimal"
+              android:maxLines="1"/>
+  </TableRow>
+
+  <TableRow>
+    <TextView android:text="2nd Quarter"/>
+    <EditText android:id="@+id/data2010_2"
+              android:inputType="numberDecimal"
+              android:maxLines="1"/>
+    <EditText android:id="@+id/data2011_2"
+              android:inputType="numberDecimal"
+              android:maxLines="1"/>
+  </TableRow>
+
+  <TableRow>
+    <TextView android:text="3rd Quarter"/>
+    <EditText android:id="@+id/data2010_3"
+              android:inputType="numberDecimal"
+              android:maxLines="1"/>
+    <EditText android:id="@+id/data2011_3"
+              android:inputType="numberDecimal"
+              android:maxLines="1"/>
+  </TableRow>
+
+  <TableRow>
+    <TextView android:text="4th Quarter"/>
+    <EditText android:id="@+id/data2010_4"
+              android:inputType="numberDecimal"
+              android:maxLines="1"/>
+    <EditText android:id="@+id/data2011_4"
+              android:inputType="numberDecimal"
+              android:maxLines="1"/>
+  </TableRow>
+
+  <TableRow>
+    <Button android:id="@+id/viewbc"
+            android:text="View Barchart"
+            android:layout_weight="1"/>
+    <Button android:id="@+id/viewlc"
+            android:text="View Linechart"
+            android:layout_weight="1"/>
+    <Button android:id="@+id/viewpc"
+            android:text="View Piechart"
+            android:layout_weight="1"/>
+  </TableRow>
+</TableLayout>

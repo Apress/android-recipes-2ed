@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="bgEnd">#168fc7</color>
+  <color name="bgStart">#000080</color>
+  <color name="conversionText">#00ffff</color>
+  <color name="displayText">#000000</color>
+  <color name="helpHiliteText">#eeee00</color>
+  <color name="helpText">#ffffff</color>
+  <color name="infoText">#ffffff</color>
+  <color name="keyText">#00ffff</color>
+  <color name="link">#00ffff</color>
+</resources>

@@ -1,0 +1,9 @@
+<TextView
+  android:id="@+id/ticker"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:singleLine="true"
+  android:scrollHorizontally="true"
+  android:ellipsize="marquee"
+  android:marqueeRepeatLimit="marquee_forever"
+/>

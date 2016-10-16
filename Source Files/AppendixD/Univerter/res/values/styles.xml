@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="CustomTheme" parent="android:Theme.Black">
+    <item name="android:windowTitleStyle">@style/CustomWindowTitle</item>
+  </style>
+
+  <style name="CustomWindowTitle">
+    <item name="android:shadowColor">#BB000000</item>
+    <item name="android:shadowRadius">2.75</item>
+    <item name="android:singleLine">true</item>
+    <item name="android:textAppearance">@style/CustomTAWindowTitle</item>
+  </style>
+
+  <style name="CustomTAWindowTitle" parent="android:TextAppearance.WindowTitle">
+    <item name="android:textSize">10sp</item>
+  </style>
+</resources>
